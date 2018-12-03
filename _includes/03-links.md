@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+I always wanted to be a [webmonkey](https://www.wired.com/category/webmonkey/).  
+And, I figured my soundtrack would be [soma.fm](http://www.soma.fm).
